@@ -1,0 +1,2 @@
+[2/2/2017 6:41:14 PM]    at BananaLib.RestService.LoginQueue.<GetAuthToken>d__70.MoveNext()
+[2/2/2017 6:41:17 PM]    at BananaLib.RestService.LoginQueue.<GetAuthToken>d__70.MoveNext()
